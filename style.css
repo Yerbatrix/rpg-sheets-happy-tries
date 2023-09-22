@@ -1,0 +1,11 @@
+.wrapper {
+    display: flex;
+    width: 1000px;
+    justify-content: center;
+    margin: 0 auto;
+    background: #ffffff;
+    box-shadow: 6px 6px 20px 0px #0000001a;
+
+
+.attribute-statblock{
+    width: 200px;}
